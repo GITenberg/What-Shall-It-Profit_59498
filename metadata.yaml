@@ -1,0 +1,24 @@
+_repo: What-Shall-It-Profit_59498
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Poul
+    alias: Anderson, Poul William
+    birthdate: 1926
+    deathdate: 2001
+    gutenberg_agent_id: '25203'
+    url: http://www.gutenberg.org/2009/agents/25203
+    wikipedia: http://en.wikipedia.org/wiki/Poul_Anderson
+description: ''
+gutenberg_issued: '2019-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: What Shall It Profit?
+url: http://www.gutenberg.org/ebooks/59498
